@@ -34,3 +34,7 @@ and top contributing states and counties.
 - Add time-series emissions trend analysis
 - Integrate industry-level emissions
 - Build ML model for emissions forecasting
+
+- Databricks Dashboard (internal / view-only):
+  https://dbc-aa931216-f0d3.cloud.databricks.com/dashboardsv3/01f0ed1d48161d529e9d0d3a0cbfa2af/published?o=1693169276178715
+
